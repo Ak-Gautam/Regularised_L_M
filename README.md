@@ -1,5 +1,5 @@
 ---
-Name: RLM
+Title: RLM
 Desc: Using feature engineering to optimize linear model.
 Author: '@Ak-Gautam'
 ---
