@@ -1,8 +1,10 @@
----
-Title: RLM
-Desc: Using feature engineering to optimize linear model.
-Author: '@Ak-Gautam'
----
+![Correlation](img/img2.png)
+
+| Property | Details |
+| :--- | :--- |
+| **Title** | RLM |
+| **Description** | Using feature engineering to optimize linear model. |
+| **Author** | [@Ak-Gautam](https://github.com/Ak-Gautam) |
 
 # Regularised_L_M
 
